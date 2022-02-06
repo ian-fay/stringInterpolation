@@ -1,0 +1,16 @@
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\stringInterpolation.exe
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\stringInterpolation.deps.json
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\stringInterpolation.runtimeconfig.json
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\stringInterpolation.runtimeconfig.dev.json
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\stringInterpolation.dll
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\ref\stringInterpolation.dll
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\bin\Debug\net5.0\stringInterpolation.pdb
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.csproj.AssemblyReference.cache
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.AssemblyInfoInputs.cache
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.AssemblyInfo.cs
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.dll
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\ref\stringInterpolation.dll
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.pdb
+C:\Users\ianfa\Desktop\DotNetDB\IanFay\stringInterpolation\obj\Debug\net5.0\stringInterpolation.genruntimeconfig.cache
